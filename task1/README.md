@@ -21,9 +21,9 @@ Give permission to execute #chmod +x filename.sh
 ### Step 4 - Installing packages
 Installed all the packages using #sudo install.....
 
-###Step 5 - Writing a script to collect system information
+### Step 5 - Writing a script to collect system information
 ![System Info](screenshots/sys_info.png)
 
-###Step 6 - Executing the file after giving access
+### Step 6 - Executing the file after giving access
 ![Final](screenshots/exe_sys_info.png)
 
