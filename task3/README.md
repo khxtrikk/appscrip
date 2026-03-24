@@ -9,7 +9,7 @@ This task involves building our html app using docker.
 
 ### Step 2 - Build the image form dockerfile
 
-![Building image](screenshots/Build_image.png)
+![Building image](screenshots/build_image.png)
 
 ### Step 3 - Start the container using image
 List all the running container using #docker ps
